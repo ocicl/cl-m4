@@ -2,9 +2,9 @@
 
 Common Lisp re-implementation of GNU M4
 
-|---------+-----------------------------------------|
-| source  | git:https://github.com/e-user/cl-m4.git |
-| commit  | 9f6518b                                 |
-| systems | cl-m4                                   |
-|---------+-----------------------------------------|
+|---------+-------------------------------------------|
+| source  | git:https://github.com/outergod/cl-m4.git |
+| commit  | 9f6518b                                   |
+| systems | cl-m4                                     |
+|---------+-------------------------------------------|
   
